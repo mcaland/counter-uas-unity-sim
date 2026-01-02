@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "counteruas-unity-sim.slnx"
+    "dotnet.defaultSolution": "counter-uas-unity-sim.slnx"
 }

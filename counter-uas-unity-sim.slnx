@@ -1,0 +1,12 @@
+﻿<Solution>
+  <Project Path="ClothDynamics.csproj" />
+  <Project Path="ClothDynamicsEditor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="BezierSolution.Runtime.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="BezierSolution.Editor.csproj" />
+  <Project Path="DualQuaternionEditor.csproj" />
+  <Project Path="ReadmeCDEditor.csproj" />
+  <Project Path="DelaunatorSharp.Runtime.csproj" />
+  <Project Path="VertexPaintEditor.csproj" />
+</Solution>
